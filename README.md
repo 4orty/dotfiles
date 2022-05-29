@@ -1,1 +1,3 @@
-# dotfiles
+# dotfile
+chrome extesions
+ - vimiums
